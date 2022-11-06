@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-coltonha/static/css/main.b6832693.css",
+    "main.js": "/hw4-coltonha/static/js/main.3b85c2f5.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-coltonha/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-coltonha/index.html",
+    "main.b6832693.css.map": "/hw4-coltonha/static/css/main.b6832693.css.map",
+    "main.3b85c2f5.js.map": "/hw4-coltonha/static/js/main.3b85c2f5.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-coltonha/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.3b85c2f5.js"
+  ]
+}
