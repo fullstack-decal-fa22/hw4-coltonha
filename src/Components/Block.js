@@ -11,8 +11,8 @@ const Block = (props) => {
             we took care of the basic block styling! 
             If curious, check out the css in Styles/Block.css */}
             {/* Refer to hint if stuck on how to color the posts */}
-            <div className="post"></div>
-            <div className="caption"></div>
+            <div className="post" style={{backgroundColor:props.color}}></div>
+            <div className="caption">{props.color}</div>
         </div>
     );
 }
